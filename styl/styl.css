@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -37,4 +38,14 @@ border: 0;
     font-size: 20px;
     color: aliceblue;
     padding: 15px 35px;
+ }
+ .head{
+    background-color: rgb(238, 219, 194);
+ }
+ .banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+ }
+ .pic{
+    width: 100px;
  }
