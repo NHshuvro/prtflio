@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.navt{
+    font-size: 45px;
+    font-weight: 800;
+    color: rgb(59, 3, 3);
+}
+.r{
+    color: red;
+}
+nav > ul{ 
+    display: flex;
+    align-items: center;
+}
+nav li{
+margin-right: 50px;
+    list-style: none;
+}
+ nav a{
+    text-decoration: none;
+    color: black;
+
+ }
+ .but{
+    border-radius: 5px;
+border: 0;
+    background: chocolate;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 15px 35px;
+ }
